@@ -8,5 +8,5 @@ h1. {{ page.title }}
 p(meta). 20 Feb 2010 - Bucharest
 
 It's been a while since I've last blogged. Now I'm trying to find a good place for my blog.
-After many tries (cloud.io on Heroku, posterous, self hosted, godaddy, self hosted, wordpress, blogspot) that didn't work from different reasons, I've decided to try Github.
-I'm curious how is this torment of mine going to end.
+After many tries that didn't work from different reasons, I've decided to try Github.
+I'm curious how if this torment of mine is going to end soon.
