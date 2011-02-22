@@ -5,6 +5,27 @@ layout: default
 {{ content }}
 </div>
 
+
+{% if page.tags && page.tags.size > 0 %}
+<div class='tags'>
+  <span>
+	tags:
+	{% for t in page.tags %}
+		<a href='http://www.google.com/search?q={{ t | escape }}+site:{{ site.url }}'>{{ t }}</a>{% if forloop.last == false %}, {% endif %}
+	{% endfor %}
+  </span>
+</div>
+{% endif %}
+
+<div name="dzone">
+	<script type="text/javascript">var dzone_url = '{{ site.url }}{{ page.url }}';</script>
+	<script type="text/javascript">var dzone_title = '{{ page.title }}';</script>
+	<script type="text/javascript">var dzone_blurb = '{{ page.excerpt }}';</script>
+	<script type="text/javascript">var dzone_style = '2';</script>
+	<script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script>
+</div>
+
+{% if site.related_posts.size > 0 %}
 <div id="related">
   <h2>Related Posts</h2>
   <ul class="posts">
@@ -13,6 +34,7 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+{% endif %}
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -20,8 +42,8 @@ layout: default
     var disqus_shortname = 'blogbogdanmaximro'; // required: replace example with your forum shortname
 
     // The following are highly recommended additional parameters. Remove the slashes in front to use.
-    // var disqus_identifier = 'unique_dynamic_id_1234';
-    // var disqus_url = '{{ post.url }}';
+    var disqus_identifier = '{{ site.url }}{{ page.id }}';
+    var disqus_url = '{{ site.url }}{{ page.url }}';
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {

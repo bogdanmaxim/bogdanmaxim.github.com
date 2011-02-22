@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Trying to move to Github
+excerpt: Moving my blog to github. Using jekyll, yaml, textile, markdown for site generation
+tags: ["blog", "github", "jekyll", "textile", "disqus", "markdown", "hosting"]
 ---
 
 h1. {{ page.title }}
