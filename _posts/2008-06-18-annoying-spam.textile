@@ -73,12 +73,12 @@ NU MAI TRIMITE.
 Va multumim pentru intelegere.
 
 
-p. In primul rand, nu sunt interesat de oferta lor.
+In primul rand, nu sunt interesat de oferta lor.
 In al doilea rand, niciodata nu as contacta pe cineva dintr-un spam, fie el si Printul Charles sau Imparatul Japoniei (not).
 
 p. In al treilea rand, eu nu inteleg un lucru:
 
-bq. De ce ar incalca cineva legea trimitand o astfel de reclama pe mail (vezi " "Spam nevinovat":http://www.tase.ro/?item=spam-nevinovat "), si de unde are adresa mea de mail (nu am facut-o publica pe nici un site). Bineinteles ca am pus o reclamatie pe "www.efrauda.ro":http://www.efrauda.ro si mail-ul lor a ajuns in junk.
+bq. De ce ar incalca cineva legea trimitand o astfel de reclama pe mail (vezi "Spam nevinovat":http://www.tase.ro/?item=spam-nevinovat), si de unde are adresa mea de mail (nu am facut-o publica pe nici un site). Bineinteles ca am pus o reclamatie pe "www.efrauda.ro":http://www.efrauda.ro si mail-ul lor a ajuns in junk.
 
 p. Ca o metoda alternativa, le-as recomanda Google adSense. Cu toate ca "sunt pe bani", reclamele sale au sanse mult mai mari sa imi trezeasca atentia (in cazul in care nu au fost blocate de "AdBlock Plus":http://adblockplus.org/en/).
 
