@@ -6,8 +6,9 @@ layout: default
 </div>
 
 
-{% if page.tags && page.tags.size > 0 %}
+{% if page.tags.size > 0 %}
 <div class='tags'>
+	<span>page.tags.size = {{ page.tags.size }}</span>
   <span>
 	tags:
 	{% for t in page.tags %}
