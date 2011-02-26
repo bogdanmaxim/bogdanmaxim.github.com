@@ -1,0 +1,92 @@
+---
+layout: post
+title: Annoying spam
+excerpt: One of those pesky messages
+tags: ["spam", "migrated"]
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 Jun 2008 - Bucharest
+
+p. Acum doua zile am primit un mail foarte interesant de la "remapare1@gmail.com":mailto:remapare1@gmail.com :
+
+bq.. Reply-To: "remapare1@gmail.com":mailto:remapare1@gmail.com 
+Message-Id:<>
+Date: Thu, 19 Jun 2008 17:36:58 -0700 (PDT)
+X-Nonspam: Statistical 65%
+X-Antivirus: avast! (VPS 080619-0, 19.06.2008), Inbound message
+X-Antivirus-Status: Clean
+
+Acest mesaj este o cerere de accept de comunicare.
+
+Oferta Chiptuning prin obd acum pentru aproape orice motorizare dupa anul 2000!!
+PRETURI PROMOTIONALE de la 200 - 400 EURO !
+
+Cu pana la 40% mai multa putere pentru orice motor turbo(diesel sau benzina)
+si pana la 12% pentru motoare clasic aspirate.
+
+Ce este chiptuningul prin OBD?
+Procedeul prin care softului original din calculatorul masinii se inlocuieste cu
+unul optimizat prin intermediul mufei prin care se face diagnoza masinii.
+
+Care este avantajul ?
+-opimizarea softului masinii in functie de cerintele dvs.
+-consum mai redus de carburant( 0.3-0.5litru/100km fata de consumul actual) in conditii normale de mers
+-putere mai mare prin ajustarea parametrilor masinii
+-avansarea masinii dvs in viteaza mai mare mult mai usor
+-depasiri mult mai usoare
+
+Intrebari frecvente:
+1.Se poate face aceasta optimizare doar pentru consum mai scazut si inclusiv la camioane ?
+Da, se poate
+2.In cazul acesta masina va fi mai \"lenesa\" ?
+Nu in nici un caz,din contra,doar ca masina va primi cai in plus doar ca mai putini decat la un
+chiptuning normal.
+3.Scade viata motorului sau a componentelor?
+Nu, prin optimizarea ECU-ului nu se forteaza parametrii admisi de producator
+4.Trebuie sa mai upgradez si alte parti ale masinii ?
+Nu este necesar
+5.Aceasta operatiune este detectabila la inspectia periodica?
+Nu,masina va fi in continuare in normele admise ,deoarece remaparea ecului se face
+pornind de la softul original al masinii.
+6.Daca este asa atunci de ce nu producatorii fac asa ceva?
+Producatorii fac chiptuning,dar este o optiune scumpa intre 800-1500 de euro
+in mai toate cazurile!
+
+Pentru mai multe detalii,comenzi si informatii dati reply la acest e-mail sau la 0724811889
+
+Cautam colaboratori in toata tara.
+
+Nota!
+Acest mesaj nu este un SPAM.Contine datele noastre de identificare si
+instructiunide dezabonare.
+V-a fost transmis din dorinta de a va prezenta produsele si serviciile
+pe care vi le putem oferi.Adresa Dvs de e-mail a fost facuta publica
+prin afisari cu caracter publicitar (pe site-uri publice sau publicata
+intr-unul din numeroasele ghiduri de afaceri existente in Romania).
+Pentru ca intelegem si apreciem intimitatea dvs ne cerem scuze
+daca acest mesaj a ajuns din greseala la dvs, iar daca doriti sa nu mai
+primiti astfel de mesaje in viitor va rugam sa dati un reply cu mesajul
+NU MAI TRIMITE.
+
+Va multumim pentru intelegere.
+
+
+p. In primul rand, nu sunt interesat de oferta lor.
+In al doilea rand, niciodata nu as contacta pe cineva dintr-un spam, fie el si Printul Charles sau Imparatul Japoniei (not).
+
+p. In al treilea rand, eu nu inteleg un lucru:
+
+bq. De ce ar incalca cineva legea trimitand o astfel de reclama pe mail (vezi " "Spam nevinovat":http://www.tase.ro/?item=spam-nevinovat "), si de unde are adresa mea de mail (nu am facut-o publica pe nici un site). Bineinteles ca am pus o reclamatie pe "www.efrauda.ro":http://www.efrauda.ro si mail-ul lor a ajuns in junk.
+
+p. Ca o metoda alternativa, le-as recomanda Google adSense. Cu toate ca "sunt pe bani", reclamele sale au sanse mult mai mari sa imi trezeasca atentia (in cazul in care nu au fost blocate de "AdBlock Plus":http://adblockplus.org/en/).
+
+p.. Apropo, mi-am amintit ceva:
+Daca vreti vreodata sa faceti o poanta proasta cuiva (sa i se trimita spam), puteti sa ii inscrieti adresa de mail pe unul din site-urile care sunt facute special pentru acest lucru (vezi adrese utile). Pur si simplu vor face adresele de mail publice, si spammerii vor avea unde sa isi trimita mesajele.
+
+**Adrese utile**
+* "www.efrauda.ro":http://www.efrauda.ro
+* "www.spamyourenemies.com":http://www.spamyourenemies.com
+* "www.spamyourenemy.com":http://www.spamyourenemy.com
+* "www.spamsomeone.com":http://www.spamsomeone.com
